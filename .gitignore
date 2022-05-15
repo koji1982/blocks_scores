@@ -102,6 +102,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.mysql_env
+.django_env
 .env
 .venv
 env/
